@@ -1,0 +1,26 @@
+#homeLink {
+        color: black;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#mc_embed_signup {
+    max-width: 400px;
+}
+
+.mc-field-group {
+    padding: 5px;
+}
+
+.clear {
+    text-align: center;
+    padding: 5px;
+}
